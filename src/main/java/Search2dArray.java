@@ -14,7 +14,6 @@ public class Search2dArray {
             for(int j=0;j<nums[i].length;j++){
                 if(nums[i][j]==target){
                     return true;
-                    //break;
                 }
             }
         }
